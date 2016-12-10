@@ -1,18 +1,31 @@
 # Educake App
+The continuation after the "just a class project", now more integrated, surrounding Web, Desktop and Mobile
 
-### FrontEnd Framworks
-| Name              | Grade  | Comments |
-|-------------------|--------|----------|
-|        React.js   | ◆◆◆◇◇ | It's not a framework, it's a library |
-|        Ember.js   | ◆◆◆◇◇ | A little difficult to learn |
-| :star: Angular.js | ◆◆◆◆◆ | Easy to use, have routes |
-| :star: Vue.js     | ◆◆◆◆◇ | Similar and simpler than Angular, need a kind of "plugin" (but it's official) to use routes |
+### FrontEnd Libraries
+| Name          | Grade   | Notes |
+|---------------|---------|-------|
+|    React.js   | ◆◆◇◇◇ | A bit popular, but with a lot of thing we will probably not use |
+|    Ember.js   | ◆◆◆◆◇ | Same as react (but not so much popular), simpler one, but almost the same learning curve |
+|    Angular.js | ◆◆◆◇◇ | Another popular one, but as the up ones, a little complicated to be used in this project |
+| ⭐️ Vue.js     | ◆◆◆◆◆ | Similar and a lot simpler than Angular |
 
 ### UIKits
-| Name              | Grade  | Comments |
-|-------------------|--------|----------|
-| Siimple     |  |  |
-| Semantic UI |  |  |
-| Skeleton    |  |  | 
-| Bulma       |  |  | 
-| Milligram   |  |  |
+| Name          | Grade   | Notes |
+|---------------|---------|-------|
+| ⭐️ Siimple     | ◆◆◆◆◆ | Simple and readable, columns similar to bootstrap, lack some components to minimize size |
+|    Skeleton    | ◆◆◆◇◇ | As the Siimple, but isn't responsible/flexible  |
+|    Milligram   | ◆◆◆◆◇ | Simple, readable, Mobile first, but they have problems with table resizing and don't wrap the text on columns |
+
+### Browserify or Webpack?
+Browserify by it's simplicity.
+
+### What need to be learned:
+1. Javascript... yeah, fuck the frontend library at the start, all the ones are made with Javascript, and we don't have to be tool dependent, think about the future, maybe you receive a opportunity to work in a web frontend development, what will you need to know, Angular? React? Vue? No. And if those tools got deprecated? What will you do?.
+2. Know and how I say it... "Na ponta da língua" the meaning of these words/acronyms:
+  - Document Object Model (DOM) and what is it's nodes;
+  - WebComponents;
+  - State in an application;
+  - Model-View-ViewModel (MVVM);
+3. Module Bundlers like WebPack and Browserify;
+4. File watchers (or preprocessors) like Sass, LESS, Haml and Typescript (I think... with Karma?) (OPTIONAL);
+5. Task Runners (or Task Automating Systems) like Grunt and Gulp (OPTIONAL);
