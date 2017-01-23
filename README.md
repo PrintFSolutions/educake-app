@@ -15,7 +15,7 @@ The continuation after the "just a class project", now more integrated, surround
 | ⭐️ Siimple\*    | ◆◆◆◆◆ | Simple and readable, columns similar to bootstrap, lack some components to minimize size |
 |    Skeleton    | ◆◆◆◇◇ | As the Siimple, but isn't responsible/flexible  |
 |    Milligram   | ◆◆◆◆◇ | Simple, readable, Mobile first, but they have problems with table resizing and don't wrap the text on columns |
-* Siimple: It'll get a new version early.
+* Siimple: It'll get a new version soon.
 
 
 ### What need to be learned:
